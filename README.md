@@ -1,0 +1,2 @@
+# newsBlog-sktli
+asssignment
